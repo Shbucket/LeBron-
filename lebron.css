@@ -1,0 +1,40 @@
+html {
+    font-size: 20px;
+    text-align: center;
+  }
+  img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+  }
+  #img-div {
+    background-color: white;
+    padding: 5px;
+    border-radius: 300px;
+  }
+  #main {
+    background-color: lightblue;
+    padding: 15px;
+  }
+  
+  li {
+    margin: 16px 0;
+  }
+  h4 {
+  }
+  h3 {
+    background-color: white;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 50px;
+  }
+  #img-caption {
+    font-size: 20px;
+    margin: 10px;
+    text-align: center;
+  }
+  li {
+    text-align: left;
+  }
+  
